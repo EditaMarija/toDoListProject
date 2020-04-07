@@ -77,7 +77,7 @@ input:focus{
 }
 
 .completed {
-	color: gray;
+	color: #d3d3d3;
 	text-decoration: line-through;
 }
 
