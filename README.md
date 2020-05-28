@@ -1,6 +1,6 @@
 # toDoListProject
 
-##### A simple todo list app built in HTML, CSS and JavaScript.      
+#### A simple todo list app built in HTML, CSS and JavaScript.      
 
 Project from Colt Steele's Web Developer Bootcamp on Udemy.
 
